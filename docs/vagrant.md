@@ -113,7 +113,6 @@ profiles:
 rebalancer: true
 nodemanager:
   jvmMaxMemoryMB: 1024
-  user: hduser
   cpus: 0.2
   cgroups: false
 executor:
